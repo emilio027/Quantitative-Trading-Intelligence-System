@@ -1,0 +1,1 @@
+Reproducible OHLCV pipeline: baselines + SARIMAX/Prophet, uncertainty & drawdowns. Python, statsmodels, CI.
