@@ -1,4 +1,4 @@
-# 💹 Quantitative Trading Intelligence System
+# ▬ Quantitative Trading Intelligence System
 
 <div align="center">
   <img src="https://img.shields.io/badge/Returns-23.7%25-green?style=for-the-badge&logo=trending-up&logoColor=white" alt="Returns">
@@ -8,15 +8,15 @@
 </div>
 
 <div align="center">
-  <h3>🚀 AI-Powered Algorithmic Trading Platform</h3>
+  <h3>◆ AI-Powered Algorithmic Trading Platform</h3>
   <p><em>Professional-grade quantitative strategies delivering institutional returns</em></p>
 </div>
 
 ---
 
-## 🎯 Executive Summary
+## ◉ Executive Summary
 
-**🏆 Business Impact**: Revolutionary algorithmic trading platform delivering **23.7% annual returns** with **2.89 Sharpe ratio**, generating **+15.3% alpha** vs benchmarks through cutting-edge quantitative strategies.
+**◇ Business Impact**: Revolutionary algorithmic trading platform delivering **23.7% annual returns** with **2.89 Sharpe ratio**, generating **+15.3% alpha** vs benchmarks through cutting-edge quantitative strategies.
 
 <div align="center">
   <table>
